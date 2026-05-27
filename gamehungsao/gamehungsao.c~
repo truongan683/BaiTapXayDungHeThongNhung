@@ -1,0 +1,17 @@
+/*
+ * gamehungsao.c
+ *
+ * Created: 5/27/2026 11:14:17 PM
+ * Author: truon
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}

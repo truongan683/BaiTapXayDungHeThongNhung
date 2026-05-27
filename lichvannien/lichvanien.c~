@@ -1,0 +1,17 @@
+/*
+ * lichvanien.c
+ *
+ * Created: 5/26/2026 10:38:27 PM
+ * Author: truon
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
